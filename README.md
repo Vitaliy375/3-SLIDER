@@ -1,2 +1,2 @@
-# 03slider
+# 03 slider
 SLIDER
